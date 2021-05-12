@@ -29,7 +29,7 @@ export class FormComponent implements OnInit {
       }
     ],
     mark: ''
-  }
+  };
 
   constructor() { }
 
